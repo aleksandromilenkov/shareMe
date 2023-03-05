@@ -4,7 +4,7 @@ For the Backend I'm using Sanity, which is Free for using. I'm using GROQ for qu
 My Sanity Schema is hosted live here: https://shareme-aleksandro.sanity.studio/desk  You can check all the data.  
 I'm using Google Authenticatior for login, also I'm using console.cloud.google APIS where I manage the Google credentials for login and logout.  
 You can Login only by using a google account.  
-Once you are logged in, the app redirects you to the homepage where you see all the Pins.  
+Once you are logged in, the app redirects you to the homepage where you see all the Pins and your google data from your Google account are stored in localstorage.  
 If you are using large screen the Categories will be on your left side, while if you are on small screen you can open them by clicking the Menu button in the Navbar.  
 You can search for pins in the Search component on the Navbar. The Search is searchyng by category,about and title! 
 You can add new Pin by clicking in the + button next to the Search bar. You must upload photo by clicking on Select File, then you must provide Title, destination, about and choose category where you will store the Pin.  
