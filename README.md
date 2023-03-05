@@ -13,4 +13,5 @@ You can add some comments to a Pin, you can Download the Picture of a Pin and yo
 You can open the Pin and see all it's comments, about,  destination pages and more!  
 You can open your Profile by clicking on your Google Image Icon in the Navbar.  There you will find all yours pins and all yours saved pins. You can also logout in the right top corner by clicking Logout.  
 This React App is using the modern react router dom v6.  
+For the Styling I'm using Tailwind CSS
 You can check the app here: https://shareme-aleksandro.netlify.app/
